@@ -10,6 +10,7 @@ def value(val):
             print(i,"the consonet is")
     
     print("the vowels is given below\n",vw)
+
     print("the consonents are given below\n",cons)
 val=input("enter the word for checking")
 value(val)
