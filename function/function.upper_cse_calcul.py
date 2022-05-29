@@ -9,5 +9,6 @@ def fun(S):
             n2=n2+1
     print("the uppercase is",n2)
     print("the loweracse is",n1)
+
 S=str(input("enter the string\n"))
 fun(S)
