@@ -6,4 +6,5 @@ r=int(input("enter the rate"))
 t=int(input("enter the time"))
 
 SI=simpleinterest(p,r,t)
+
 print(SI)
