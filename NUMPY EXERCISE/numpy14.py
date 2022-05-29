@@ -6,6 +6,7 @@ print(b)
 lst=[]
 lst.append(b)
 d=np.sum(lst)
+
 print("total no of p is ",d)
 
 # 14.Write a Python program to find the maximum and 
