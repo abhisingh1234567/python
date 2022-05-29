@@ -8,6 +8,7 @@ def discriminant():
         print('Two Solutions. Discriminant value is:', discriminant)
     elif discriminant == 0:
         print('One Solution. Discriminant value is:', discriminant)
+
     elif discriminant < 0:
         print('No Real Solutions. Discriminant value is:', discriminant)
 
