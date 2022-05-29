@@ -5,6 +5,6 @@ if angle<360:
 
     aos=((pi*r**2)*(angle/360))
     print(aos)
-
 else:
+
     print("angle does not exist")
