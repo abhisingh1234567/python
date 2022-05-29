@@ -5,4 +5,5 @@ l = np.char.ljust(x, 15, fillchar='_')
 r = np.char.rjust(x, 15, fillchar='_')
 print(c)
 print( l)
+
 print(r)
