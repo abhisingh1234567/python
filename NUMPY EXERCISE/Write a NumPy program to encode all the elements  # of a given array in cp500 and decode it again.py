@@ -5,4 +5,5 @@ de=np.char.decode(en,'cp500')
 print("after encoding the array\n")
 print(en)
 print("after decoding the encoded array")
+
 print(de)
