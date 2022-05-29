@@ -6,6 +6,8 @@ d = {
     'value4': 2,
     'value5': 1,
 }
+
+
   
 answer = 0
   
