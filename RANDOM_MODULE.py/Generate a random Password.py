@@ -7,6 +7,7 @@ def randomPassword():
 
     password += random.sample(string.ascii_uppercase, 2)
 
+
     password += random.choice(string.digits)
 
     password += random.choice(string.punctuation)
