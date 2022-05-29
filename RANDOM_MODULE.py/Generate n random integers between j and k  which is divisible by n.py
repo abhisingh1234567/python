@@ -6,4 +6,5 @@ for i in range(a):
     k=int(input("enter the second limit:"))
     b=rnd.randrange(j,k,a)
     print(b)
+
     break
