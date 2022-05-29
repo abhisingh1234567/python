@@ -5,6 +5,7 @@ lower(string)
 
 print("************************************")
 def lwo(word):
+
     print(word.swapcase())
 word=input("ener the string\n")
 lwo(word)
