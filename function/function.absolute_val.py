@@ -5,4 +5,6 @@ def distance_from_zero(s):
         return "Nope"
 s="what?"
 
+
+
 print(distance_from_zero(s))
